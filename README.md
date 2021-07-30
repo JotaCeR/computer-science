@@ -13,6 +13,9 @@
   </a>
 </p>
 
+# Disclaimer
+This forked repository it's a personal goal I'm pursuing right now for getting a better formation and complementation into Computers Science. As a desire for keep up my professional development.
+
 # Contents
 
 - [Summary](#summary)
